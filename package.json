@@ -1,0 +1,19 @@
+{
+  "name": "collegenameextractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^22.5.1",
+    "axios": "^1.7.5",
+    "esrun": "^3.2.26"
+  }
+}
